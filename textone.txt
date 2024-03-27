@@ -1,2 +1,1 @@
 welcome to third day of the devops class
-commit
